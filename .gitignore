@@ -41,3 +41,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Visual Studio temp files 
+*.ncb
+*.sdf
+*.user
+bin/
+obj/
+debug/
+release/
+ipch/
+
+
