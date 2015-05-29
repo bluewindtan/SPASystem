@@ -42,7 +42,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Visual Studio temp files 
+# Custom define filter files  
 *.ncb
 *.sdf
 *.user
@@ -51,5 +51,7 @@ obj/
 debug/
 release/
 ipch/
+.svn/
+*.exe
 
 
